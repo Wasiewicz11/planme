@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\filip\\OneDrive\\Pulpit\\PLANME\\PLANME\\PLANME.csproj",
+      "projectUniqueName": "C:\\Users\\filip\\Documents\\planme\\PLANME.csproj",
       "projectName": "PLANME",
-      "projectPath": "C:\\Users\\filip\\OneDrive\\Pulpit\\PLANME\\PLANME\\PLANME.csproj",
+      "projectPath": "C:\\Users\\filip\\Documents\\planme\\PLANME.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\filip\\OneDrive\\Pulpit\\PLANME\\PLANME\\obj\\",
+      "outputPath": "C:\\Users\\filip\\Documents\\planme\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
